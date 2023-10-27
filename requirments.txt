@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+streaamlit==1.27.2
+matplotlib=3.7.1
